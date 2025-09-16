@@ -8,6 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/keith-vargas",
     github: "https://github.com/digitalsirkeith",
     twitter: "",
+    instagram: "https://instagram.com/digitalsirkeith",
   },
   aboutMe:
     "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I'm a quick learner and I'm always looking to expand my skills.",
@@ -36,7 +37,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "MISE ",
+      company: "MISE",
       title: "Backend API Developer",
       dateRange: "February 2022 - August 2024",
       bullets: [
