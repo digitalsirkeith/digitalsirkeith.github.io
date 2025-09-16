@@ -10,16 +10,16 @@ export const siteConfig = {
     twitter: "",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I'm a software engineer with a passion for building scalable and efficient systems. I'm currently looking for a new opportunity to join a team that is building something great. I'm a quick learner and I'm always looking to improve my skills.",
+  skills: ["Typescript", "React", "Node.js", "Python", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake"],
   projects: [
-    {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+    // {
+    //   name: "AI Dev Roundup Newsletter",
+    //   description:
+    //     "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+    //   link: "https://aidevroundup.com/?ref=devportfolio",
+    //   skills: ["React", "Node.js", "AWS"],
+    // },
   ],
   experience: [
     {
@@ -28,7 +28,6 @@ export const siteConfig = {
       dateRange: "March 2022 - September 2025",
       bullets: [
         "Developed and maintained REST API interfaces for seamless integration with legacy systems and third-party services, supporting high-volume data processing and reducing integration time by 40%",
-        "Improved operational efficiency by enhancing UI/UX and implementing quality-of-life features, resulting in 25% reduction in SLA times and improved user satisfaction",
         "Built and deployed a white-label website platform enabling customers to provide branded services to their clients, expanding market reach and generating new revenue streams",
         "Spearheaded a data discrepancy detection project, implementing automated validation systems that improved data accuracy to 100% and reduced manual review time by 60%",
         "Automated document processing workflows for API-ingested documents, streamlining operations and reducing manual effort by 70% through intelligent routing and validation",
@@ -93,7 +92,6 @@ export const siteConfig = {
         "Collaborated with researchers to implement data-driven recommendations for charging station placement, resulting in 30% improvement in charging accessibility for fleet operations",
       ],
     },
-    
   ],
   education: [
     {
