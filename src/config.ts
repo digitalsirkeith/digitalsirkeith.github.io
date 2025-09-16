@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Keith Vargas",
   title: "Software Engineer II",
   description: "Portfolio website of Keith Vargas",
-  accentColor: "#C9B1D8",
+  accentColor: "#FFDE21",
   social: {
     email: "keith.vargas@outlook.com",
     linkedin: "https://linkedin.com/in/keith-vargas",
