@@ -2,8 +2,8 @@
 
 /* Always dark mode - no conditionals */
 :root {
-  --bg-primary: #0f172a;
-  --bg-secondary: #1e293b;
+  --bg-primary: #0f1419;
+  --bg-secondary: #1a202c;
   --text-primary: #f1f5f9;
   --text-secondary: #cbd5e1;
   --text-muted: #94a3b8;
