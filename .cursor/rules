@@ -77,3 +77,4 @@ npm run preview # Preview production build
 - No linting tools are set up
 - The project uses Tailwind CSS v4 with Vite plugin
 - All icons should come from Tabler Icons for consistency
+- Do not hallucinate when it comes to dates and datetimes
