@@ -28,6 +28,7 @@ export const siteConfig = {
       dateRange: "March 2022 - September 2025",
       bullets: [
         "Developed and maintained REST API interfaces for seamless integration with legacy systems and third-party services, supporting high-volume data processing and reducing integration time by 40%",
+        "Improved operational efficiency by enhancing UI/UX and implementing quality-of-life features, resulting in 25% reduction in SLA times and improved user satisfaction",
         "Built and deployed a white-label website platform enabling customers to provide branded services to their clients, expanding market reach and generating new revenue streams",
         "Spearheaded a data discrepancy detection project, implementing automated validation systems that improved data accuracy to 100% and reduced manual review time by 60%",
         "Automated document processing workflows for API-ingested documents, streamlining operations and reducing manual effort by 70% through intelligent routing and validation",
