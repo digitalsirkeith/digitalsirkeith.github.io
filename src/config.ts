@@ -10,7 +10,7 @@ export const siteConfig = {
     twitter: "",
   },
   aboutMe:
-    "I'm a software engineer with a passion for building scalable and efficient systems. I'm currently looking for a new opportunity to join a team that is building something great. I'm a quick learner and I'm always looking to improve my skills.",
+    "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I'm a quick learner and I'm always looking to expand my skills.",
   skills: ["Typescript", "React", "Node.js", "Python", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake"],
   projects: [
     // {
@@ -44,6 +44,15 @@ export const siteConfig = {
         "Designed and implemented database schema with PostGIS for advanced proximity search functionality, improving location-based query performance by 50%",
         "Built and deployed an Azure-powered Discord integration bot for internal team communication, automating workflow notifications and reducing manual coordination overhead",
         "Streamlined API documentation and testing processes, implementing automated testing pipelines that reduced deployment time by 30% and improved code quality",
+      ],
+    },
+    {
+      company: "CHRG Electric Vehicle Technologies, Inc.",
+      title: "Data Analyst",
+      dateRange: "February 2021 - August 2021",
+      bullets: [
+        "Analyzed raw electric vehicle travel data to identify optimal charging station locations, using statistical analysis and geographic data processing to improve charging infrastructure efficiency",
+        "Collaborated with researchers to implement data-driven recommendations for charging station placement, resulting in 30% improvement in charging accessibility for fleet operations",
       ],
     },
     {
@@ -82,15 +91,6 @@ export const siteConfig = {
         "Assisted in 5G network feature development and testing, contributing to early-stage 5G technology implementation and validation processes",
         "Developed internal web application for test server reservation using Ruby on Rails, streamlining resource allocation and reducing server setup time by 50% for engineering teams",
         "Participated in network performance analysis and optimization studies, gaining hands-on experience with telecommunications protocols and wireless communication systems",
-      ],
-    },
-    {
-      company: "CHRG Electric Vehicle Technologies, Inc.",
-      title: "Data Analyst",
-      dateRange: "February 2021 - August 2021",
-      bullets: [
-        "Analyzed raw electric vehicle travel data to identify optimal charging station locations, using statistical analysis and geographic data processing to improve charging infrastructure efficiency",
-        "Collaborated with researchers to implement data-driven recommendations for charging station placement, resulting in 30% improvement in charging accessibility for fleet operations",
       ],
     },
   ],
