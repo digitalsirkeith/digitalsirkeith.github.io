@@ -11,7 +11,7 @@ export const siteConfig = {
     instagram: "https://instagram.com/digitalsirkeith",
   },
   aboutMe:
-    "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I'm a quick learner and I'm always looking to expand my skills.",
+    "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I have experience working on API, platform solutions, database systems, and AI/ML solutions.",
   skills: ["Typescript", "React", "Node.js", "Python", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake"],
   projects: [
     // {
