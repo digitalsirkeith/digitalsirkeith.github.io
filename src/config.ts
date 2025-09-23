@@ -12,14 +12,14 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I have experience working on API, platform solutions, database systems, and AI/ML solutions.",
-  skills: ["Typescript", "React", "Node.js", "Python", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake"],
+  skills: ["Typescript", "React", "Node.js", "Python", "Flask", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake", "Git", "GitHub Actions", "Kubernetes", "Grafana", "Terraform"],
   projects: [
     {
       name: "MISE Backend API",
       description:
         "Created and maintained the API documentation for Mise Systems, allowing internal iOS and Android developers to understand, test, and integrate with our backend services.",
       link: "https://dev1.api.misesystems.com/doc/rapidoc",
-      skills: ["Python", "Flask", "PostgreSQL", "PostGIS", "Azure", "OpenAPI", "Rapidoc"],
+      skills: ["Python", "Flask", "PostgreSQL", "PostGIS", "Azure", "Kubernetes", "OpenAPI", "Rapidoc"],
     },
     {
       name: "Expedock External API",
