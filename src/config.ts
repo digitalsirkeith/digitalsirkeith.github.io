@@ -14,13 +14,20 @@ export const siteConfig = {
     "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I have experience working on API, platform solutions, database systems, and AI/ML solutions.",
   skills: ["Typescript", "React", "Node.js", "Python", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake"],
   projects: [
-    // {
-    //   name: "AI Dev Roundup Newsletter",
-    //   description:
-    //     "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-    //   link: "https://aidevroundup.com/?ref=devportfolio",
-    //   skills: ["React", "Node.js", "AWS"],
-    // },
+    {
+      name: "MISE Backend API",
+      description:
+        "Created and maintained the API documentation for Mise Systems, allowing internal iOS and Android developers to understand, test, and integrate with our backend services.",
+      link: "https://dev1.api.misesystems.com/doc/rapidoc",
+      skills: ["Python", "Flask", "PostgreSQL", "PostGIS", "Azure", "OpenAPI", "Rapidoc"],
+    },
+    {
+      name: "Expedock External API",
+      description:
+        "Part of a team developing and maintaining the API ecosystem for Expedock, allowing internal systems and external partners to interact reliably with Expedock's services (shipping, tracking, order management, etc.).",
+      link: "https://app.expedock.com/docs/api",
+      skills: ["Python", "Flask", "PostgreSQL", "AWS", "OpenAPI", "Redoc"],
+    },
   ],
   experience: [
     {
@@ -28,11 +35,12 @@ export const siteConfig = {
       title: "Software Engineer II",
       dateRange: "March 2022 - September 2025",
       bullets: [
-        "Developed and maintained REST API interfaces for seamless integration with legacy systems and third-party services, supporting high-volume data processing and reducing integration time by 40%",
-        "Improved operational efficiency by enhancing UI/UX and implementing quality-of-life features, resulting in 25% reduction in SLA times and improved user satisfaction",
-        "Built and deployed a white-label website platform enabling customers to provide branded services to their clients, expanding market reach and generating new revenue streams",
-        "Spearheaded a data discrepancy detection project, implementing automated validation systems that improved data accuracy to 100% and reduced manual review time by 60%",
-        "Automated document processing workflows for API-ingested documents, streamlining operations and reducing manual effort by 70% through intelligent routing and validation",
+        "Designed and maintained REST APIs integrating legacy and third-party systems, handling high-volume data and reducing partner integration time by 40%",
+        "Built and deployed a white-label website platform, enabling branded services for customers and opening new revenue streams",
+        "Led a data discrepancy detection initiative and implemented automated validations and alerting, bringing invoice data error rates to 1% and shrinking manual triage by 60%",
+        "Automated document processing for API-ingested documents, reducing manual effort by 70% via intelligent routing and validation",
+        "Implemented Grafana alerts with Kubernetes monitoring for excessive database writes and usage, improving system reliability and proactive issue detection",
+        "Wrote GitHub Actions workflows to streamline development processes, automating CI/CD pipelines and reducing deployment time",
         "Collaborated with cross-functional teams to deliver scalable solutions using modern DevOps practices",
       ],
     },
