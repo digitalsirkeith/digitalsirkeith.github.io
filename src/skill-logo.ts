@@ -27,7 +27,8 @@ const skillIconNames: Record<string, string> = {
   "Nginx": "nginx",
   "Jenkins": "jenkins",
   "Terraform": "terraform",
-  "Ansible": "ansible"
+  "Ansible": "ansible",
+  "Stripe": "stripe",
 };
 
 const skillIconUrls: Record<string, string> = Object.fromEntries(Object.entries(skillIconNames).map(([name, iconName]) => [name, `https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/${iconName}.svg`]));
