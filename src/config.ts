@@ -11,15 +11,15 @@ export const siteConfig = {
     instagram: "https://instagram.com/digitalsirkeith",
   },
   aboutMe:
-    "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I have experience working on API, platform solutions, database systems, and AI/ML solutions.",
-  skills: ["Typescript", "React", "Node.js", "Python", "Flask", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake", "Git", "GitHub Actions", "Kubernetes", "Grafana", "Terraform"],
+    "I'm a software engineer with a passion for building scalable and efficient systems. I do full-stack development and I'm currently looking for a new opportunity to join a team that is building something great. I have experience working on API, platform solutions, database systems, and AI/ML integrations.",
+  skills: ["Typescript", "React", "Node.js", "Python", "Flask", "AWS", "Docker", "Azure", "Vue.js", "PostgreSQL", "Snowflake", "Git", "GitHub Actions", "Kubernetes", "Grafana", "Terraform", "Stripe"],
   projects: [
     {
       name: "MISE Backend API",
       description:
-        "Created and maintained the API documentation for Mise Systems, allowing internal iOS and Android developers to understand, test, and integrate with our backend services.",
+        "Created and maintained the API documentation for Mise Systems, allowing internal iOS and Android developers to understand, test, and integrate with our backend services. Implemented Stripe payment integration for secure transaction processing.",
       link: "https://dev1.api.misesystems.com/doc/rapidoc",
-      skills: ["Python", "Flask", "PostgreSQL", "PostGIS", "Azure", "Kubernetes", "OpenAPI", "Rapidoc"],
+      skills: ["Python", "Flask", "PostgreSQL", "PostGIS", "Azure", "Kubernetes", "OpenAPI", "Rapidoc", "Stripe"],
     },
     {
       name: "Expedock External API",
@@ -52,6 +52,7 @@ export const siteConfig = {
         "Developed RESTful APIs for mobile applications using flask-smorest, enabling seamless data synchronization and real-time updates across iOS and Android platforms",
         "Designed and implemented database schema with PostGIS for advanced proximity search functionality, improving location-based query performance by 50%",
         "Built and deployed an Azure-powered Discord integration bot for internal team communication, automating workflow notifications and reducing manual coordination overhead",
+        "Implemented Stripe payment integration for secure transaction processing, enabling seamless payment flows for mobile applications",
         "Streamlined API documentation and testing processes, implementing automated testing pipelines that reduced deployment time by 30% and improved code quality",
       ],
     },
