@@ -33,7 +33,7 @@ export const siteConfig = {
     {
       company: "Expedock",
       title: "Software Engineer II",
-      dateRange: "March 2022 - September 2025",
+      dateRange: "March 2022 - October 2025",
       bullets: [
         "Designed and maintained REST APIs integrating legacy and third-party systems, handling high-volume data and reducing partner integration time by 40%",
         "Built and deployed a white-label website platform, enabling branded services for customers and opening new revenue streams",
